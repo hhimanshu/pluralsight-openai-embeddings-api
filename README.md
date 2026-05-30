@@ -1,0 +1,1 @@
+# pluralsight-openai-embeddings-api

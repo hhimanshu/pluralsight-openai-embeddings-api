@@ -1,0 +1,12 @@
+{
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "file:/**/*.csv": "jupyter-data-wrangler",
+        "*.ipynb": "jupyter-notebook",
+        "*.html": "default",
+        "*.csv": "default",
+        "*.parquet": "duckdb.dataFileViewer",
+        "*.tsv": "duckdb.dataFileViewer",
+        "*.xlsx": "duckdb.dataFileViewer"
+    }
+}
